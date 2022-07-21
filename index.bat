@@ -1,0 +1,1 @@
+java -jar "SP-0.0.1-SNAPSHOT.jar"
